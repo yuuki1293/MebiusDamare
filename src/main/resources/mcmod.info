@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mebius-damare",
+  "name": "Mebius damare",
+  "description": "MEBIUS damare",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["StaticallyTyped"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
